@@ -1,5 +1,5 @@
 # TechSoft-Food
- Programs developed by me.
+ Developed using MVVM, MVC, LINQ & Lambda and WPF.
 
  System to automate processes for ordering food, registering customers, products, employees, tables etc.
 
